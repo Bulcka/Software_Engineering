@@ -27,7 +27,7 @@
 - к.э.н., доцент Панов М.А.
 
 ## Установка
-
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/pic/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0.png)
 
 ## Настройка
 - Текст задания
