@@ -1,7 +1,7 @@
-# Тема 2. Базовые операции языка Python
-Отчет по Теме #2 выполнил(а):
-- Панов Михаил Александрович
-- ИВТ-21-1
+# Тема 4.  Функции и стандартные модули/библиотеки
+Отчет по Теме #4 выполнил(а):
+- Лунегов Игорь Альбертович
+- ИВТ-23-2
 
 | Задание | Лаб_раб | Сам_раб |
 | ------ | ------ | ------ |
@@ -10,11 +10,11 @@
 | Задание 3 | + | + |
 | Задание 4 | + | + |
 | Задание 5 | + | + |
-| Задание 6 | + | + |
-| Задание 7 | + | + |
-| Задание 8 | + | + |
-| Задание 9 | + | + |
-| Задание 10 | + | + |
+| Задание 6 | + |  |
+| Задание 7 | + |  |
+| Задание 8 | + |  |
+| Задание 9 | + |  |
+| Задание 10 | + |  |
 
 знак "+" - задание выполнено; знак "-" - задание не выполнено;
 
@@ -30,7 +30,7 @@ print('123')
 print(1.23)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_1.png)
 
 ## Выводы
 
@@ -51,7 +51,7 @@ print(5.1 + 8.27)
 print(3 + 7.04 + 1 + 2.33)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_2.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_2.png)
 
 ## Выводы
 
@@ -70,7 +70,7 @@ print (one + two)
 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_3.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_3.png)
 
 ## Выводы
   
@@ -89,7 +89,7 @@ print(str(three))
 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_4.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_4.png)
 
 ## Выводы
 
@@ -103,7 +103,7 @@ three = input("three:")
 print(one, two, three)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_5.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_5.png)
 
 ## Выводы
 
@@ -118,7 +118,7 @@ print("Целочисленное деление", a//b)
 print("Нахождение остатка от деления",a%b) 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_6.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_6.png)
 
 ## Выводы
 
@@ -130,7 +130,7 @@ print(line * 6 )
 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_7.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_7.png)
 
 ## Выводы
 
@@ -141,7 +141,7 @@ sentence = "Hello World"
 print(sentence.count("o"))
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_8.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_8.png)
 
 ## Выводы
 
@@ -151,7 +151,7 @@ print(sentence.count("o"))
 print("Hello\nWorld")
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_9.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_9.png)
 
 ## Выводы
 
@@ -163,7 +163,7 @@ print(sentence[1])
 print(sentence[:5])
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_10.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/Lab4_10.png)
 
 ## Выводы
 
@@ -173,7 +173,7 @@ print(sentence[:5])
 print(1 == 0)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_1.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_1.png)
 
 ## Выводы
   
@@ -184,7 +184,7 @@ a,b,c = 1,2,3
 print(f"{a} {b} {c}") 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_2.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_2.png)
 
 ## Выводы
   
@@ -195,7 +195,7 @@ a = int(input())
 print(a)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_3.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_3.png)
 
 ## Выводы
   
@@ -206,7 +206,7 @@ string = "hello"
 print(string * 10)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_4.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_4.png)
 
 ## Выводы
   
@@ -217,7 +217,7 @@ day, month, year  = 22,"Сентября", 2025
 print(f"Сегодня {day} {month} {year} ",end="Всего хорошего!")
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_5.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_5.png)
 
 ## Выводы
   
@@ -227,7 +227,7 @@ print(f"Сегодня {day} {month} {year} ",end="Всего хорошего!"
 print( "Hello "," World", sep= "my")
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_6.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_6.png)
 
 ## Выводы
   
@@ -238,7 +238,7 @@ string = "Hello World"
 print(len(string))
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_7.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_7.png)
 
 ## Выводы
   
@@ -249,7 +249,7 @@ string = "HELLO WORLD"
 print(string.lower())
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_8.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_8.png)
 
 ## Выводы
   
@@ -259,7 +259,7 @@ print(string.lower())
 print(16**(1/2))
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_9.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_9.png)
 
 ## Выводы
   
@@ -270,7 +270,7 @@ string = "Hello World"
 print(string[: :-1])
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_10.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_4/pic/SW2_10.png)
 
 ## Выводы
 
