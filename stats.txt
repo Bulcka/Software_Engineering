@@ -1,0 +1,4 @@
+Всего слов: 14
+Уникальных слов: 12
+Список уникальных слов:
+and, are, blue, cant, i, read, red, roses, so, this, violets, you
