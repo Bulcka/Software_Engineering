@@ -10,11 +10,11 @@
 | Задание 3 | + | + |
 | Задание 4 | + | + |
 | Задание 5 | + | + |
-| Задание 6 | + | + |
-| Задание 7 | + | + |
-| Задание 8 | + | + |
-| Задание 9 | + | + |
-| Задание 10 | + | + |
+| Задание 6 |  |  |
+| Задание 7 |  |  |
+| Задание 8 |  |  |
+| Задание 9 |  |  |
+| Задание 10 |  |  |
 
 знак "+" - задание выполнено; знак "-" - задание не выполнено;
 
@@ -30,9 +30,8 @@ print('123')
 print(1.23)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_1.png)
 
-## Выводы
 
 В данном коде выводятся три строки с использованием функции `print()`. Каждая строка содержит разные значения:
 
@@ -51,9 +50,8 @@ print(5.1 + 8.27)
 print(3 + 7.04 + 1 + 2.33)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_2.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_2.png)
 
-## Выводы
 
 ## Лабораторная работа №3
 ### Выведите в консоль три строки. Первая – обычная строка. Вторая – F строка с использованием заранее объявленной переменной. Третья – сложите две или более строк в одну
@@ -70,9 +68,8 @@ print (one + two)
 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_3.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_3.png)
 
-## Выводы
   
 ## Лабораторная работа №4
 ### Выведите в консоль три строки. Первая – трансформация любого типа переменной в bool. Вторая – трансформация любого типа переменной в float или int. Третья – трансформация любого типа переменной в str
@@ -89,9 +86,8 @@ print(str(three))
 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_4.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_4.png)
 
-## Выводы
 
 ## Лабораторная работа №5
 ### Присвойте трем переменным различные значения, воспользовавшись функцией input()
@@ -103,9 +99,8 @@ three = input("three:")
 print(one, two, three)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_5.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_5.png)
 
-## Выводы
 
 ## Лабораторная работа №6
 ### Создайте две любые числовые переменные и выполните над ними несколько математических операций: возведение в степень, обычное деление, целочисленное деление, нахождение остатка от деления. При желании вы можете проверить как работают эти вычисления с разными типами данных, например, сначала создать две переменные int, затем создать две переменные float и наконец создать переменные типа int и float и провести над ними операции, прописанные выше.
@@ -118,9 +113,8 @@ print("Целочисленное деление", a//b)
 print("Нахождение остатка от деления",a%b) 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_6.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_6.png)
 
-## Выводы
 
 ## Лабораторная работа №7
 ### Создайте любую строковую переменную и произведите над ней математическое действие умножение на любое число
@@ -130,9 +124,8 @@ print(line * 6 )
 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_7.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_7.png)
 
-## Выводы
 
 ## Лабораторная работа №8
 ### Посчитайте сколько раз символ ‘o’ встречается в строке ‘Hello World’.
@@ -141,9 +134,8 @@ sentence = "Hello World"
 print(sentence.count("o"))
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_8.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_8.png)
 
-## Выводы
 
 ## Лабораторная работа №9
 ### Напишите предложение ‘Hello World’ в две строки. Написанная программа должна занимать одну строку в редакторе кода
@@ -151,9 +143,8 @@ print(sentence.count("o"))
 print("Hello\nWorld")
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_9.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_9.png)
 
-## Выводы
 
 ## Лабораторная работа №10
 ### Из предложения ‘Hello World’ выведите в консоль только 2 символ, а затем выведите слово ‘Hello’
@@ -163,9 +154,8 @@ print(sentence[1])
 print(sentence[:5])
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/Lab2_10.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/Lab9_10.png)
 
-## Выводы
 
 ## Самостоятельная работа №1
 ### Выведите в консоль булевую переменную False, не используя слово False в строке или изначально присвоенную булевую переменную. Программа должна занимать не более двух строк редактора кода.
@@ -173,9 +163,8 @@ print(sentence[:5])
 print(1 == 0)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_1.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_1.png)
 
-## Выводы
   
 ## Самостоятельная работа №2
 ### Присвоить значения трем переменным и вывести их в консоль, используя только две строки редактора кода
@@ -184,9 +173,8 @@ a,b,c = 1,2,3
 print(f"{a} {b} {c}") 
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_2.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_2.png)
 
-## Выводы
   
 ## Самостоятельная работа №3
 ### Реализуйте ввод данных в программу, через консоль, в виде только целых чисел (тип данных int). То есть при вводе буквенных символов в консоль, программа не должна работать. Программа должна занимать не более двух строк редактора кода.
@@ -195,9 +183,8 @@ a = int(input())
 print(a)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_3.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_3.png)
 
-## Выводы
   
 ## Самостоятельная работа №4
 ### Создайте только одну строковую переменную. Длина строки должна не превышать 5 символов. На выходе мы должны получить строку длиной не менее 16 символов. Программа должна занимать не более двух строк редактора кода
@@ -206,9 +193,8 @@ string = "hello"
 print(string * 10)
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_4.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_4.png)
 
-## Выводы
   
 ## Самостоятельная работа №5
 ### Создайте три переменные: день (тип данных - числовой), месяц (тип данных - строка), год (тип данных - числовой) и выведите в консоль текущую дату в формате: “Сегодня день месяц год. Всего хорошего!” используя F строку и оператор end внутри print(), в котором вы должны написать фразу “Всего хорошего!”. Программа должна занимать не более двух строк редактора кода.
@@ -217,9 +203,8 @@ day, month, year  = 22,"Сентября", 2025
 print(f"Сегодня {day} {month} {year} ",end="Всего хорошего!")
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_5.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_5.png)
 
-## Выводы
   
 ## Самостоятельная работа №6
 ### В предложении ‘Hello World’ вставьте ‘my’ между двумя словами. Выведите полученное предложение в консоль в одну строку. Программа должна занимать не более двух строк редактора кода.
@@ -227,9 +212,8 @@ print(f"Сегодня {day} {month} {year} ",end="Всего хорошего!"
 print( "Hello "," World", sep= "my")
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_6.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_6.png)
 
-## Выводы
   
 ## Самостоятельная работа №7
 ### Узнайте длину предложения ‘Hello World’, результат выведите в консоль. Программа должна занимать не более двух строк редактора кода
@@ -238,9 +222,8 @@ string = "Hello World"
 print(len(string))
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_7.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_7.png)
 
-## Выводы
   
 ## Самостоятельная работа №8
 ### Переведите предложение ‘HELLO WORLD’ в нижний регистр. Программа должна занимать не более двух строк редактора кода.
@@ -249,9 +232,8 @@ string = "HELLO WORLD"
 print(string.lower())
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_8.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_8.png)
 
-## Выводы
   
 ## Самостоятельная работа №9
 ### Самостоятельно придумайте задачу по проходимой теме и решите ее.Задача должна быть связанна со взаимодействием с числовыми значениями.Вывести квадратный корень из 16
@@ -259,9 +241,8 @@ print(string.lower())
 print(16**(1/2))
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_9.png)
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_9.png)
 
-## Выводы
   
 ## Самостоятельная работа №10
 ### Самостоятельно придумайте задачу по проходимой теме и решите ее.Задача должна быть связанна со взаимодействием со строковыми значениями.Вывести Hrllo World в обратном порядке
@@ -270,9 +251,4 @@ string = "Hello World"
 print(string[: :-1])
 ```
 ### Результат.
-![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_2/pic/SW2_10.png)
-
-## Выводы
-
-## Общие выводы по теме
-- Развернутый вывод
+![Меню](https://github.com/Bulcka/Software_Engineering/blob/Тема_9/pic/SW9_10.png)
